@@ -73,3 +73,60 @@ Q: Check if a string's length is greater than 5.*/
 // 5. Loop (While Loop)
 // Q: Print numbers from 10 to 1 in reverse using a while loop.
 
+// let a = 11;
+// while(a>=1){
+//     a--;
+//     console.log(a);
+// }
+
+
+/*7. String (Uppercase Conversion)
+Q: Convert a string to uppercase.*/
+
+// let a = "hemant";
+// let b= a.toUpperCase()
+// console.log(b);
+
+
+// 8. Array Method (Filter)
+// Q: Filter out even numbers from an array.
+
+// let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// let evenNum = numbers.filter(number=> number% 2 === 0);
+// console.log(evenNum);
+
+
+
+// let year = 2023 ;
+
+// if((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0){
+//     console.log("year are leap");
+// }else{
+//     console.log("year are not leap");
+    
+// }
+
+
+// for(let i = 1; i <= 10; i++){
+//     console.log(i);
+    
+// }
+
+// let sum = 0;
+
+// for(let i = 1;i <= 20; i++){
+//     if(i % 2 === 0) 
+//         sum += i;
+// }
+
+// console.log(sum);
+
+// for(let i = 1; i<= 20; i++){
+//     if(i % 2 === 0){
+//         console.log(i);
+//     }
+// }
+
+
+const number = [16,32,13,16,4,8];
+for(number; number<= )
