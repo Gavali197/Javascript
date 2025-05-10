@@ -128,5 +128,6 @@ Q: Convert a string to uppercase.*/
 // }
 
 
-const number = [16,32,13,16,4,8];
-for(number; number<= )
+function reverseArray(str){
+    return str.split("").reverse().join()
+}
